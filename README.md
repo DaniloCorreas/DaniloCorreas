@@ -5,7 +5,7 @@
 I also want to learn Python, Go and some Cybersecurity</p><br>
 
 - :computer: I’m currently working on **Personal proyects, practicing what I learned in my classes.**
-    - My first proyect here: 
+    - My first proyect here: https://danilocorreas.github.io/TuGranFiesta-Website/index.html
     
 - :books: Everyday I’m learning **Javascript** and now I’m ready to start with **Frontend Frameworks**
 
