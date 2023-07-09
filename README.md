@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danilo Correas</h1>
 <h3 align="center">I am a student of web development from Córdoba, Argentina</h3><br>
 
-<p align="justify">I am 29 years old and since I was very young I have been passionate about technology and computing. I have studied and work in accounting but decided to change my course.<br>Since the beginning of the year I take online classes from Platzi about web development. I want to become a Full-Stack developer and master technologies like React, Angular, NodeJS and databases.
+<p align="justify">I am 30 years old and since I was very young I have been passionate about technology and computing. I have studied and work in accounting but decided to change my course.<br>Since the beginning of the year I take online classes from Platzi and Youtube about web development. I want to become a Full-Stack developer and master technologies like React, Angular, NodeJS and databases.
 I also want to learn Python, Go and some Cybersecurity</p><br>
 
 - :computer: I’m currently working on **Personal proyects, practicing what I learned in my classes.**
-    - My first proyect here: https://danilocorreas.github.io/TuGranFiesta-Website/index.html
+    - My lastest proyect here: https://danilocorreas.github.io/TuGranFiesta-Website/index.html
     
-- :books: Everyday I’m learning **Javascript** and now I’m ready to start with **Frontend Frameworks**
+- :books: Everyday I’m learning **Javascript**, now I’m Studying **React Fullstack** from a Udemy course by Fernando Herrera.  
 
 - :mag_right: I’m looking to collaborate on **Frontend proyects**, I really want to be part of an IT team. 
 
