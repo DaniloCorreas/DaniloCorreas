@@ -5,7 +5,7 @@
 I also want to learn Python, Go and some Cybersecurity</p><br>
 
 - :computer: I’m currently working on **Personal proyects, practicing what I learned in my classes.**
-    - My lastest proyect here: https://danilocorreas.github.io/TuGranFiesta-Website/index.html
+    - My lastest proyect here: https://que-vemos-hoy.netlify.app (Movies Web App using React + Vite + TailwindCSS)
     
 - :books: Everyday I’m learning **Javascript**, now I’m Studying **React Fullstack** from a Udemy course by Fernando Herrera.  
 
